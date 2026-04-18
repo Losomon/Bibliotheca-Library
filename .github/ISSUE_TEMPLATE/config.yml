@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+
+contact_links:
+  - name: 🔒 Security Vulnerability
+    url: https://github.com/Losomon/Bibliotheca-Library/security/advisories/new
+    about: Please report security vulnerabilities privately via GitHub's Security Advisory feature — NOT as a public issue.
+
+  - name: 💬 General Question / Discussion
+    url: https://github.com/Losomon/Bibliotheca-Library/discussions
+    about: For general questions, ideas, or help getting started — use GitHub Discussions instead of opening an issue.
+
+  - name: 📖 Documentation
+    url: https://github.com/Losomon/Bibliotheca-Library/wiki
+    about: Check the Wiki for setup guides, architecture notes, and API documentation.
